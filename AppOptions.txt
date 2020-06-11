@@ -139,7 +139,7 @@ AcceptedUnknownDevice 0
 AcceptedOutdatedDriver 0
 
 ;User has seen the NEW icon for Multiplatform Cloud saves.
-UserSawCloudNew 0
+UserSawCloudNew 1
 
 ;
 TelemetryUploadNecessary 0
